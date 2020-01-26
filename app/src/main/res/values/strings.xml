@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Activitys Intents</string>
+    <string name="input_text">Informe seu nome e idade</string>
+    <string name="btn_toast">Exibir Toast</string>
+    <string name="btn_tela_dois">Tela 2</string>
+    <string name="btn_parcel">Parcelable via Intent</string>
+    <string name="btn_serializable">Serializable via Intent</string>
+    <string name="text_view_padrao">TextView</string>
+    
+    
+    <!--Tela2Activity-->
+    <string name="texto_cliente_codigo">Cliente: %1$s - Código: %2$d</string>
+    <string name="texto_nome_idade">Nome: %1$s - Idade: %2$d</string>
+</resources>
